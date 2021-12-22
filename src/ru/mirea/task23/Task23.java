@@ -1,9 +1,7 @@
-package task23;
+package ru.mirea.task23;
 
 import java.util.ArrayList;
-import java.util.Calendar;
 import java.util.Date;
-import java.util.Random;
 
 public class Task23 {
     public static void main(String[] args) {
